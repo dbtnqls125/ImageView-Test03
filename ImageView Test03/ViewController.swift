@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var MyImageView: UIImageView!
     @IBOutlet weak var Mylabel: UILabel!
     
+    
     var count = 1
     var direction = false
     
